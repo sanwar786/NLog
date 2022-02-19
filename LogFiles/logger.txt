@@ -1,0 +1,2 @@
+﻿2022-01-29 12:29:18.7069 DEBUG Debug successful
+2022-01-29 12:29:18.7507 INFO Successfully caluculated sum:33
